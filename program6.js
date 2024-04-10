@@ -1,5 +1,6 @@
 //Multipliaction Table
 
+const prompt=require('prompt-sync')();
 let i=parseInt (prompt("Enter the integar: "));
 let j;
 let multi;

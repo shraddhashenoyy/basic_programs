@@ -1,5 +1,6 @@
 //Using prompt 
 
+const prompt=require('prompt-sync')();
 let num1 = 25;
 let num2 = 88;
 let sum = num1+num2;
